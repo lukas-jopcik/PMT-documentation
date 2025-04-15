@@ -1,6 +1,6 @@
 site_name: PMT Documentation
 theme:
-  name: material
+  name: jekyll-theme-minimal
   language: en
   features:
     - navigation.tabs
