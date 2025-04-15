@@ -1,0 +1,17 @@
+site_name: PMT Documentation
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - search.highlight
+    - navigation.instant
+nav:
+  - Home: index.md
+  - Widgets:
+      - Overview: widgets/index.md
+      - TradingView Charts: widgets/tradinviewcharts.md
+      - Seasonality: widgets/seasonality.md
+  - Best Practices:
+      - Tips: best/tips.md
+      - Templates: best/templates.md
